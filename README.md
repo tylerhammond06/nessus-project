@@ -4,7 +4,7 @@
 
 - Using and configuring Nessus Essentials
 - Scanning a Windows 10 virtual machine for potential vulnerabilities
-- Remidiating any found critical vulnerabilites on the VM
+- Remediating any found critical vulnerabilites on the VM
 
 <h2>Prerequisites</h2>
 
